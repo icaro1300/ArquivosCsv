@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tebFbdEbddeg80Ee+CwYLaGq94gFt3RxFPm6iqBhJXQWgJnc7jTE/YaQy0tHyi+AEJb0mfVVUi/WJnW2O0G2Jg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fusion\\Documents\\icaro\\csv\\csv\\csv.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fusion\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

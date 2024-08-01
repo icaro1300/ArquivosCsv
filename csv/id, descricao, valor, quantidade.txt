@@ -1,0 +1,4 @@
+id, descricao, valor, quantidade
+1, pizza, 60, 50
+2, hamburguer, 20, 50
+3, pastel, 8, 50
